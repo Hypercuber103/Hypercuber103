@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Hypercuber103
-- 👀 I’m interested in men and women
-- 🌱 I’m currently learning Fr*nch
-- 😄 Pronouns: Any/All
-- ⚡ Fun fact: im biromantic
+im #tuff
 
 <!---
 Hypercuber103/Hypercuber103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
